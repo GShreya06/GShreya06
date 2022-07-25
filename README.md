@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreya Gupta</h1>
-<h3 align="center">A Girl passionate in learning.</h3>
+
 
 - 🌱 I’m currently learning **Frontend Development**
 
