@@ -11,7 +11,6 @@
 <p align="left">
 <a href="https://twitter.com/shreyaa_g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shreyaa_g" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shreya-gupta-685a62209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreya-gupta-685a62209" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@shreyagupta4563" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shreyagupta4563" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
