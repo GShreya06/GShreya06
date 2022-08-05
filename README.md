@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shreya Gupta</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm Shreya Gupta</h1>
 
 
 - 🌱 I’m currently learning **Frontend Development**
@@ -6,6 +6,8 @@
 - 💬 Ask me about **Open source**
 
 - 📫 How to reach me **shreyagupta4563@gmail.com**
+
+<img align="right" src="https://media2.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif?cid=ecf05e474q95bxey2lwas07715a61eojc67atgesfzkcuo1f&rid=giphy.gif&ct=g" height="245" width="375" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
