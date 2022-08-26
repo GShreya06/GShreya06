@@ -27,6 +27,13 @@
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 
+<br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GShreya06&show_icons=true&theme=aura&locale=en&layout=compact" alt="GShreya06" /></p>
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GShreya06&theme=radical" alt="shreyagupta" /></p>
+<br>
+<a href="http://www.github.com/GShreya06"><img src="https://activity-graph.herokuapp.com/graph?username=GShreya06&bg_color=171717&color=ffffff&line=14b8a6&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/shreyaguptg"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/shreyaguptg" /></a></p><br><br>
 
