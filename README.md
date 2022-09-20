@@ -33,4 +33,4 @@
 <a href="http://www.github.com/GShreya06"><img src="https://activity-graph.herokuapp.com/graph?username=GShreya06&bg_color=171717&color=ffffff&line=14b8a6&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/shreyaguptg"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/shreyaguptg" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/shreyaguptg?new=1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/shreyaguptg" /></a></p><br><br>
