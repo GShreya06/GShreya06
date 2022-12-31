@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web Development & Designing**
 
-<!-- - 💬 Ask me about **Open source** -->
+- 💬 Ask me about **Open Source**
 
 - 📫 How to reach me **shreyagupta4563@gmail.com**
 
