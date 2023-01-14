@@ -26,7 +26,7 @@
 </p>
  -->
 <br><br><br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GShreya06&show_icons=true&theme=aura&locale=en&layout=compact" alt="GShreya06" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GShreya06&show_icons=true&theme=aura&locale=en&layout=compact" alt="GShreya06" /></p> -->
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=GShreya06&theme=github-green-purple&hide_border=true&border_radius=4.3&date_format=j%20M%5B%20Y%5D" alt="shreyagupta" /></p>
 <br>
