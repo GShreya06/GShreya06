@@ -30,6 +30,7 @@
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=GShreya06&theme=github-green-purple&hide_border=true&border_radius=4.3&date_format=j%20M%5B%20Y%5D" alt="shreyagupta" /></p>
 <br>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GShreya06&theme=radical" alt="shreyagupta" /></p> -->
 <!-- <a href="http://www.github.com/GShreya06"><img src="https://activity-graph.herokuapp.com/graph?username=GShreya06&bg_color=171717&color=ffffff&line=14b8a6&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
 
