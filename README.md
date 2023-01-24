@@ -32,8 +32,8 @@
 <br>
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GShreya06&theme=radical" alt="shreyagupta" /></p> -->
 <!-- <a href="http://www.github.com/GShreya06"><img src="https://activity-graph.herokuapp.com/graph?username=GShreya06&bg_color=171717&color=ffffff&line=14b8a6&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
-
+<!-- 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GShreya06&show_icons=true&theme=aura&locale=en&layout=compact" alt="shreyagupta" /></p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GShreya06&show_icons=true&theme=aura&locale=en" alt="shreyagupta" /></p>
-<br>
+<br> -->
