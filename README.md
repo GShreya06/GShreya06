@@ -8,8 +8,10 @@
 - 📫 How to reach me **shreyagupta4563@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GShreya06&label=Profile%20views&color=0e75b6&style=flat" alt="Shreyagupta" /></p>
-
+<!-- 
+<p align ="center"><img src="https://media2.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif?cid=ecf05e474q95bxey2lwas07715a61eojc67atgesfzkcuo1f&rid=giphy.gif&ct=g" height="300" width="500" /></p> -->
 <p align ="center"><img src="https://media2.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif?cid=ecf05e474q95bxey2lwas07715a61eojc67atgesfzkcuo1f&rid=giphy.gif&ct=g" height="300" width="500" /></p>
+
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
