@@ -33,6 +33,6 @@
 <br> -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shreyaa_g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shreyaa_g" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shreya-gupta-685a62209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreya-gupta-685a62209" height="30" width="40" /></a>
+<a href="https://twitter.com/shreyaa_g" target="blank"><img align="center" src="https://icon-library.com/images/twitter-circle-icon-png/twitter-circle-icon-png-13.jpg" alt="shreyaa_g" height="75" width="75" /></a>
+<a href="https://linkedin.com/in/shreya-gupta-685a62209" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" alt="shreya-gupta-685a62209" height="78" width="75" /></a>
 </p>
