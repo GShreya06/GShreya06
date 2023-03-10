@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋 , I'm Shreya Gupta</h1>
+<h1 align="center">Hey there, I'm Shreya Gupta</h1>
 
 
 - 🌱 I’m currently learning **Web Development & Designing**
